@@ -1,0 +1,23 @@
+{
+  "experiment": "classifier_v1_2_2_original_5m",
+  "preset": "full",
+  "no_blending": true,
+  "split_order": [
+    "train",
+    "cv",
+    "test_1",
+    "test_2",
+    "test_3"
+  ],
+  "test_splits": [
+    "test_1",
+    "test_2",
+    "test_3"
+  ],
+  "model_count": 7,
+  "winning_model": "CatBoost",
+  "winning_threshold": 0.385,
+  "results_dir": "D:\\FYP\\classifier_v1_2_2_original_3m\\results",
+  "winning_model_bundle": "D:\\FYP\\classifier_v1_2_2_original_3m\\results\\winning_model_bundle.joblib",
+  "generated_at_utc": "2026-05-07T20:50:53.888283+00:00"
+}
