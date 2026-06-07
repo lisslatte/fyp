@@ -1,0 +1,16 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+joblib
+nbformat
+meteostat
+timezonefinder
+lightgbm
+xgboost
+catboost
+imbalanced-learn
+matplotlib
+seaborn
+jupyter
+
